@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dcburger1
+- 👋 Hi, I’m @dcburger1 (Technical Fellow at Microsoft)
 - 👀 I’m interested in computer architecture, AI, deep learning, computing systems, and their intersection
 - 🌱 I’m currently learning Pytorch and modern AI development
 - 💞️ I’m looking to collaborate on ways to run large-scale AI more efficiently
